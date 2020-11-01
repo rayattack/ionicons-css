@@ -1,0 +1,13 @@
+{
+  "name": "ionicons-css",
+  "version": "5.2.1",
+  "description": "Ionicons CSS version without js dependencies",
+  "main": "src/icon.css",
+  "author": "Raymond Ortserga",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayattack/ionicons-css"
+  }
+}
